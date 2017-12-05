@@ -1,27 +1,36 @@
-== ShopIsle ==
+<a href="http://creativealiens.com/demo/drifolio/"><img src="http://creativealiens.com/demo/drifolio/preview.png" alt="Drifolio – Free Responsive Dribbble Portfolio Template"></a>
 
-Images sources:
+What & Why Drifolio?
+---------------------------
+Drifolio - stands for Dribbble Portfolio.
 
- * slide1.jpg: https://download.unsplash.com/uploads/141172692104151d94dd4/4f900e54
- * slide2.jpg: https://download.unsplash.com/photo-1434056886845-dac89ffe9b56
- * slide3.jpg: https://download.unsplash.com/reserve/RONyPwknRQOO3ag4xf3R_Kinsey.jpg
+There are many designers around me don't have enough time to setup and manage their own website. For them it could be a great template that needs one time setup.
+
+You just need to set your info and dribbble username, that's all. And after that, whenever you post something on dribbble, it'll come automatically to your website as well. There's nothing to do there again :)
+
+Live demo: http://creativealiens.com/demo/drifolio/
+
+View the post on dribbble: http://drbl.in/mVHv
+
+This is a free Bootstrap powered HTML template from EvenFly. Feel free to download, modify and use it for yourself or your clients as long there is no money involved.
+
+Please don't try to sale it from anywhere; because I want it to be free, forever. If you sale it, that's me who deserves the money, not you :)
+
+Documentetion and credits
+---------------------------
+Here is a short documentetion about basic changes on the template
+http://goo.gl/FhmJav
+
+Feel free to drop an email to info@creativealiens.com
+if you have any question/suggestions.
 
 
- * banner1.jpg: https://download.unsplash.com/photo-1433826672293-6fdc46138e66
- * banner2.jpg: https://download.unsplash.com/photo-1433643667043-663b34a5c052
- * banner3.jpg: https://download.unsplash.com/photo-1435070872030-a8113da23691
- 
- * 404.jpg: https://download.unsplash.com/photo-1428895009712-de9e58a18409
- 
- * team1.jpg: https://download.unsplash.com/reserve/ysPfhVSzSP2m629CW0mw_selfPortrait.jpg
- * team2.jpg: https://download.unsplash.com/photo-1433615988899-12bdf1bd42b6
- * team3.jpg: https://download.unsplash.com/photo-1427096105551-15e2512fd2dc
- * team4.jpg: https://download.unsplash.com/photo-1434123715472-19686d6cc442
- 
- * background-video.jpg https://download.unsplash.com/photo-1436190807865-2e156d40f1a2
- 
- * header.jpg: https://download.unsplash.com/photo-1434592370571-b4bacd3377b3
+THANKS!
+---------------------------
+If you like this template, you may like our other works as well.
+Keep your eyes on 
+http://creativealiens.com
 
-License: All unsplash.com images are licensed under the terms of the Creative Commons Zero, http://creativecommons.org/publicdomain/zero/1.0/ 	
-
-ElegantIcons License: GPL 2.0 and MIT http://www.gnu.org/licenses/gpl-2.0.html, http://opensource.org/licenses/MIT
+Or follow me on
+https://www.facebook.com/MamunSrizon or 
+https://twitter.com/MamunSrizon
